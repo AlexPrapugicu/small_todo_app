@@ -5,7 +5,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TodoComponent/Todo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TodoComponent/Todo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TodoComponent/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TodoComponent/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TodoEditForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TodoEditForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TodoList/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TodoList/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TodoNewForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TodoNewForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/TodoSortOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TodoSortOptions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591969407529</updated>
-      <workItem from="1591969410479" duration="2841000" />
+      <workItem from="1591969410479" duration="4362000" />
     </task>
     <servers />
   </component>

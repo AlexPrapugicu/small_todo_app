@@ -1,0 +1,9 @@
+.FormWrapper {
+    padding: 10px;
+    margin: 10px;
+}
+
+.todo-form {
+    display: inline-flex;
+}
+
